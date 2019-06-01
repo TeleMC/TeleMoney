@@ -1,0 +1,22 @@
+name: TeleMoney
+main: TeleMoney\TeleMoney
+version: "1.0.0"
+author: TeleMC
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.0
+- 3.0.6
+- 3.0.7
+- 3.0.9
+- 3.1.0
+- 4.0.0
+commands:
+  돈설정:
+    description: 돈설정 관련 명령어입니다.
+  코드:
+    description: 코드 관련 명령어입니다.
